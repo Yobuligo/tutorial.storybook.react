@@ -1,0 +1,4 @@
+.master-detail{
+    display: flex;
+    flex-direction: row;
+}
